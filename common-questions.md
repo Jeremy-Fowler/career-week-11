@@ -19,3 +19,4 @@ Task: I knew that I was lacking in certain aspects of the job, but I assumed tha
 Action: My supervisor gave me good feedback on how I could improve in the skills where I was lacking, and she told me that if I did not improve I would no longer have a job.
 
 Result: I took what my supervisor told me to heart, and her brutal honesty served as a great motivator. I did improve my skills enough to meet standards, and eventually greatly succeeded it. The areas where I was lacking actually became my strengths, and this job helped get me noticed enough to recieve a promotion.
+
