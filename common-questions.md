@@ -20,3 +20,22 @@ Action: My supervisor gave me good feedback on how I could improve in the skills
 
 Result: I took what my supervisor told me to heart, and her brutal honesty served as a great motivator. I did improve my skills enough to meet standards, and eventually greatly succeeded it. The areas where I was lacking actually became my strengths, and this job helped get me noticed enough to recieve a promotion.
 
+## Tell me about a time when you made sure a customer was pleased with your service.
+
+Situation: If a local store urgently needed something from our warehouse, they could could send an employee to our warehouse to pick up product.  We called this a will-call.
+
+Task: I was usually asked to deal with will-calls.  
+
+Action: Even if I was busy, I always took the time to help employees load product into their vehicle.
+
+Result: The employees were always very grateful to have help loading product into their vehicles, and I was even recognized and thanked when shopping in their stores.
+
+## Talk about a time when you had to work closely with someone whose personality was very different from yours.
+
+Situation: I was in charge of training new employees at my job, and our new employee was a mother originally from Moroccol
+
+Task: I needed to train this employee to meet our standards, and I also wanted to make her feel welcome to our company.
+
+Action: This employee struggled with certain aspects of the job, but with some coaching she was able to excel at her work.
+
+Result: This employee became one of my best friends at the company, and she eventually earned multiple propmotions. I still keep in touch with her.
