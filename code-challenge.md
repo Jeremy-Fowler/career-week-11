@@ -1,0 +1,1 @@
+I worked on an edabit challenge to convert seconds into minutes. This challenge honstely took me a little longer than I expected, but it felt great to finally complete it. I plan on doing more code challenges in the future to sharpen my skills.
